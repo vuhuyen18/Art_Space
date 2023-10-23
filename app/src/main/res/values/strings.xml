@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArtSpace_jetpack</string>
+    <string name="toto">Chu meo che cay </string>
+    <string name="dora">Nhan vat daemon o Nhat Ban</string>
+    <string name="shea">Co gai ben bong sen </string>
+    <string name="sheb">Co gai doi non di hai hoa</string>
+    <string name="cotam">Co tam ben ao ca bong</string>
+
+    <string name="author_toto">Chibi (1990)</string>
+    <string name="author_dora">Fujiko F. Fujio (1969)</string>
+    <string name="author_shea">Nguyen Ngoc(1999)</string>
+    <string name="author_sheb">To Van (1923)</string>
+    <string name="author_cotam">Dan gia (1933)</string>
+</resources>
